@@ -27,8 +27,8 @@ const App: React.FC = () => {
       
       {/* Fixed Header */}
       <header className="fixed top-0 left-0 w-full p-6 z-50 flex justify-between items-center mix-blend-difference pointer-events-none">
-        <div className="font-bold tracking-tighter text-xl text-white">GEMINI <span className="text-gray-400 font-light">VISUAL COMPANION</span></div>
-        <div className="font-mono text-xs text-gray-400">BRAIN vs BROWSER</div>
+        <div className="font-bold tracking-tighter text-xl text-white">BRAIN <span className="text-gray-400 font-light">vs BROWSER</span></div>
+        <div className="font-mono text-xs text-gray-400">GEMINI VISUAL COMPANION</div>
       </header>
 
       <main>
